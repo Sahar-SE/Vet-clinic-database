@@ -1,7 +1,6 @@
-# curriculum-databases-projects-template
+# vet_clinic
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> This project is for animal's data for vet_clinic
 
 
 ## Getting Started
@@ -15,17 +14,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Sahar Saba Amiri**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+I am an aspiring web developer from pakistan.
+- GitHub: [@Sahar-SE]( https://github.com/Sahar-SE)
+- Linkedin: [Sahar Saba Amiri](https://www.linkedin.com/sahar-saba-amiri)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
