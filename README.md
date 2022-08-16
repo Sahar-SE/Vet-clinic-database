@@ -1,6 +1,8 @@
 # vet_clinic
 
 > This project is for animal's data for vet_clinic
+![drawSQL-export-2022-08-16_17_12](https://user-images.githubusercontent.com/98980908/184883092-299871e8-e944-4a4e-bcc6-86f339a6cec0.png)
+
 
 
 ## Getting Started
